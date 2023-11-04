@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/vnguyndt/car-price-prediction/notebook
+https://www.kaggle.com/code/hassancodeanwar/task-3-car-price-prediction-used-cars
+https://plotly.com/python/templates/
